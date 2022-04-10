@@ -116,7 +116,7 @@ function GenerateRules() {
                 "https://dns.alidns.com:443/dns-query"
             )
             foreign_dns=(
-                "https://dns.google/dns-query"
+                "https://dns.adguard.com/dns-query"
             )
             function GenerateRulesHeader() {
                 echo -n "[/" >> "${file_path}"
