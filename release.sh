@@ -115,9 +115,10 @@ function GenerateRules() {
             domestic_dns=(
                 "https://dns.alidns.com/dns-query"
             )
-            foreign_dns=(
-                "https://dns.adguard.com/dns-query"
-            )
+            foreign_dns=([
+                "https://dns.adguard.com/dns-query",
+                "https://doh.opendns.com/dns-query"
+            ])
             function GenerateRulesHeader() {
                 echo -n "[/" >> "${file_path}"
             }
