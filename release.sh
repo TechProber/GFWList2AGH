@@ -116,7 +116,7 @@ function GenerateRules() {
                 "tls://dns.alidns.com:853"
             )
             foreign_dns=(
-                "tls://dns.adguard.com:853"
+                "tls://dns.opendns.com:853"
             )
             function GenerateRulesHeader() {
                 echo -n "[/" >> "${file_path}"
