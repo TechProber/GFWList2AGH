@@ -113,10 +113,10 @@ function GenerateRules() {
     case ${software_name} in
         adguardhome)
             domestic_dns=(
-                "https://dns.alidns.com/dns-query"
+                "tls://dns.alidns.com:853"
             )
             foreign_dns=(
-                "https://dns.adguard.com/dns-query"
+                "tls://dns.adguard.com:853"
             )
             function GenerateRulesHeader() {
                 echo -n "[/" >> "${file_path}"

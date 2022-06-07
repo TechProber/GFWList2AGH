@@ -3449,6 +3449,7 @@
 2shoujie.com
 2shu8.cc
 2sitebbs.com
+2smoto.com
 2smtc.com
 2s.tv
 2sx.net
@@ -10612,6 +10613,7 @@ adeng.hpplay.cn
 adesk.com
 ade.tanx.com
 ade.wooboo.com.cn
+adexplain.com
 adexpo.tencentmusic.com
 adextra.51wnl-cq.com
 ad.exyws.org
@@ -28785,6 +28787,7 @@ ditan360.com
 ditan369.com
 dithub.com
 ditian-tech.com
+ditiefuli.com
 ditietu.com
 ditiezu.com
 ditiezu.net
@@ -65713,6 +65716,7 @@ pilidns.com
 pilifu.com
 pilifx.com
 pili-zz.net
+pimaoji.com
 pim.baidu.com
 pim-drcn.cloud.dbankcloud.cn
 pimei.com
@@ -79352,6 +79356,7 @@ tac.coconut.is
 tac.googleapis.com
 tachangxing.com
 taclsc.org
+tacool.com
 tactan.net
 tactics.bainv.net
 t.adbxb.cn
@@ -88446,6 +88451,7 @@ whutosa.com
 whut-px.com
 whuwto.com
 whwanshun.com
+whwat.com
 whwater.com
 whwebsite.com
 whweo.com
@@ -93801,6 +93807,7 @@ xlimg.net
 xlinclass.com
 xlisp.net
 xljnjy.com
+xljsci.com
 xlkorganic.com
 xlkty.com
 xllxdg.com
